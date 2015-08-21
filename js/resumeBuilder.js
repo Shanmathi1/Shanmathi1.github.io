@@ -1,6 +1,6 @@
 var bio = {
 	"name" : "Shanmathi Mayuram Krithivasan",
-	"role" : "Software Developer",
+	"role" : "",
 	"welcomeMessage": "Hi! I'm Shanmathi, and I love to learn and code",
 	"contacts" : {
 		"email" : "smayur3@uic.edu",
