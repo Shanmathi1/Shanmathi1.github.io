@@ -1,7 +1,7 @@
 var bio = {
 	"name" : "Shanmathi Mayuram Krithivasan",
 	"role" : "",
-	"welcomeMessage": "Hi! I'm Shanmathi, and I love to learn and code",
+	"welcomeMessage": "Hi! I'm Shanmathi. I am a Masters student at University of Illinois at Chicago.",
 	"contacts" : {
 		"email" : "smayur3@uic.edu",
 		"github" : "Shanmathi1",
