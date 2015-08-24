@@ -140,7 +140,7 @@ var work = {
 var project = {
   "projects": [ {
     "title": "Frogger Game",
-    "url": "https://github.com/Shanmathi1?tab=repositories",
+    "url": "http://shanmathi1.github.io/frogger_game/",
     "dates": "2015",
     "description": "This application is a clone of the classic game, Frogger. Coded players, enemies, and other game entities in JavaScript's object-oriented pseudo-classical style. Created enemy subclasses with different movement patterns and sprites (edited art assets in GIMP).",
     "image": "images/frogger.png"
