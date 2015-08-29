@@ -154,7 +154,7 @@ var project = {
   },
   {
     "title": "Website Optimization",
-    "url": "https://github.com/Shanmathi1?tab=repositories",
+    "url": "https://github.com/Shanmathi1/Website-performance-optimization",
     "dates": "2015",
     "description": "Optimized critical rendering path of existing website to achieve PageSpeed Insights score above 90. Eliminated inefficiencies in the website's scroll animation.  Site now scrolls at 60 frames per second.",
     "image": "images/website.jpg"
