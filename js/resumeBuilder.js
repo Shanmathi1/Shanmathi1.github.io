@@ -149,7 +149,7 @@ var project = {
     "title": "Neighborhood Map",
     "url": "http://shanmathi1.github.io/neighborhood_map/",
     "dates": "2015",
-    "description": "This is a single-page, responsive application built with Knockout.js framework and hosted on GitHub Pages. Developed a full-page map that loads with popular places in every location. Users can view recent pictures taken at each location(retrieved by AJAX request to Instagram API).",
+    "description": "This is a single-page, responsive application built with Knockout.js framework and hosted on GitHub Pages. Developed a full-page map that loads with popular places in every location. Users can view reviews for each location(retrieved by AJAX request to Fourquare API).",
     "image": "images/map.png"
   },
   {
