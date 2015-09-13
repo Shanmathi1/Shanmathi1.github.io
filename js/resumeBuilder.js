@@ -135,19 +135,20 @@ var work = {
 }
 
 var project = {
-  "projects": [ {
-    "title": "Frogger Game",
-    "url": "http://shanmathi1.github.io/frogger_game/",
-    "dates": "2015",
-    "description": "This application is a clone of the classic game, Frogger. Coded players, enemies, and other game entities in JavaScript's object-oriented pseudo-classical style. Created enemy subclasses with different movement patterns and sprites (edited art assets in GIMP).",
-    "image": "images/frogger.png"
-  },
+  "projects": [ 
   {
     "title": "Neighborhood Map",
     "url": "http://shanmathi1.github.io/neighborhood_map/",
     "dates": "2015",
     "description": "This is a single-page, responsive application built with Knockout.js framework and hosted on GitHub Pages. Developed a full-page map that loads with popular places in every location. Users can view reviews for each location(retrieved by AJAX request to Fourquare API).",
     "image": "images/map.png"
+  },
+  {
+    "title": "Frogger Game",
+    "url": "http://shanmathi1.github.io/frogger_game/",
+    "dates": "2015",
+    "description": "This application is a clone of the classic game, Frogger. Coded players, enemies, and other game entities in JavaScript's object-oriented pseudo-classical style. Created enemy subclasses with different movement patterns and sprites (edited art assets in GIMP).",
+    "image": "images/frogger.png"
   },
   {
     "title": "Website Optimization",
