@@ -39,9 +39,6 @@ var bio = {
                 $("#skills").append(formattedSkill);
             }
         }
-
-
-	
 }
 };
 
@@ -158,6 +155,20 @@ var project = {
     "dates": "2015",
     "description": "Optimized critical rendering path of existing website to achieve PageSpeed Insights score above 90. Eliminated inefficiencies in the website's scroll animation.  Site now scrolls at 60 frames per second.",
     "image": "images/website.jpg"
+  },
+  {
+    "title": "Feed Reader Testing",
+    "url": "http://shanmathi1.github.io/feed-reader-testing/",
+    "dates": "2015",
+    "description": "Web-based application that reads RSS feeds. Used Jasmine(open source testing framework for JavaScript) to write a number of tests against a pre-existing application. These will test the underlying business logic of the application as well as the event handling and DOM manipulation.",
+    "image": "images/feed.jpg"
+  },
+   {
+    "title": "Saturn Quiz - AngularJS",
+    "url": "http://shanmathi1.github.io/Quiz-AngularJS/",
+    "dates": "2015",
+    "description": "This is a quiz app created using features of AngularJS including : Services and Providers- $scope, $http, $sce and Directives- ng-repeat, ng-class, ng-click, ng-show, ng-style.",
+    "image": "images/quiz.jpg"
   },
   {
     "title": "Tweet Classification",
