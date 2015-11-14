@@ -137,6 +137,13 @@ var work = {
 var project = {
   "projects": [ 
   {
+    "title": "MoonRunner iOS App",
+    "url": "https://github.com/Shanmathi1?tab=repositories",
+    "dates": "2015",
+    "description": "This is an iOS App developed using Swift, a GPS-based app to help you track your runs. This App takes running to the next level with badges based on planets and moons in the Solar System. This App uses the HealthKit Api introduced with iOS 8. It uses Core Location to track route, shows a map during the run, continously reports average pace, use Core Data to store past runs and awards badges for running various distances.",
+    "image": "images/iosApp.png"
+  },
+  {
     "title": "Neighborhood Map",
     "url": "http://shanmathi1.github.io/neighborhood_map/",
     "dates": "2015",
