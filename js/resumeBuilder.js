@@ -144,6 +144,13 @@ var project = {
     "image": "images/ios1.png"
   },
   {
+    "title": "Gesture-Driven To-Do List iOS App",
+    "url": "https://github.com/Shanmathi1?tab=repositories",
+    "dates": "2015",
+    "description": "This is an iOS App developed using Swift. This To-Do List App is free from buttons, toggle switches and other common user interface (UI) controls. Users will interact with this App via a set of intuitive gestures, including swipes, pull-to-add and pinch. This App uses gradient layers, performs animations, create custom table view cell and use UIPanGestureRecognizer and UIPinchGestureRecognizer properties(Raywenderlich Tutorials).",
+    "image": "images/toDo1.png"
+  },
+  {
     "title": "Neighborhood Map",
     "url": "http://shanmathi1.github.io/neighborhood_map/",
     "dates": "2015",
