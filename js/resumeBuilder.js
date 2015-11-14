@@ -108,7 +108,7 @@ var work = {
 
 	{
 		"employer" : "WebDesignst.com",
-		"title" : "Software Design Engibeer Intern",
+		"title" : "Co-founder & Developer",
 		"location" : "Chennai, India",
 		"dates" : "September 2012 - October 2013",
 		"description" : "Designed overall layout and developed interactive websites for clients using HTML, CSS, javaScript and jQuery. Developed UI layers for mobile applications using Java for Android with SQLite database and Objective-C for iOS platform. Interfaced with business analysts, developers, and technical support to determine optimal specifications."
