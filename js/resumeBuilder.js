@@ -158,13 +158,6 @@ var project = {
     "image": "images/Runner1.png"
   },
   {
-    "title": "Gesture-Driven To-Do List iOS App",
-    "url": "https://github.com/Shanmathi1?tab=repositories",
-    "dates": "2015",
-    "description": "This is an iOS App developed using Swift. This To-Do List App is free from buttons, toggle switches and other common user interface (UI) controls. Users will interact with this App via a set of intuitive gestures, including swipes, pull-to-add and pinch. This App uses gradient layers, performs animations, create custom table view cell and use UIPanGestureRecognizer and UIPinchGestureRecognizer properties(Raywenderlich Tutorials).",
-    "image": "images/toDo1.png"
-  },
-  {
     "title": "Stock Market Simulator",
     "url": "https://github.com/Shanmathi1?tab=repositories",
     "dates": "2015",
@@ -198,6 +191,13 @@ var project = {
     "dates": "2015",
     "description": "This is a quiz app created using features of AngularJS including : Services and Providers- $scope, $http, $sce and Directives- ng-repeat, ng-class, ng-click, ng-show, ng-style.",
     "image": "images/quiz.jpg"
+  },
+    {
+    "title": "Gesture-Driven To-Do List iOS App",
+    "url": "https://github.com/Shanmathi1?tab=repositories",
+    "dates": "2015",
+    "description": "This is an iOS App developed using Swift. This To-Do List App is free from buttons, toggle switches and other common user interface (UI) controls. Users will interact with this App via a set of intuitive gestures, including swipes, pull-to-add and pinch. This App uses gradient layers, performs animations, create custom table view cell and use UIPanGestureRecognizer and UIPinchGestureRecognizer properties(Raywenderlich Tutorials).",
+    "image": "images/toDo1.png"
   },
   {
     "title": "Tweet Classification",
