@@ -141,7 +141,7 @@ var project = {
     "url": "https://github.com/Shanmathi1?tab=repositories",
     "dates": "2016",
     "description": "Just2Do is a simple to-do list app that helps you get stuff done. Just2Do helps you collect all your tasks in one place, organize them according to your priorities and then work on tasks that matter the most. Just2Do has a simple gesture-based design that allows you to focus on your to-dos.",
-    "image": "images/todo1.png"
+    "image": "images/todo1.jpg"
   },
     {
     "title": "Neighborhood Map",
