@@ -49,7 +49,7 @@ var education = {
 	"degree" : "Masters",
 	"major" : "CS",
 	"dates" : "Dec 2015",
-	"gpa" : "3.83/4"
+	"gpa" : "3.66/4"
 },
 {
 	"name" : "Anna University",
@@ -92,7 +92,7 @@ var work = {
 		"title" : "Programmer",
 		"location" : "Chicago, IL",
 		"dates" : "August 2014 - May 2015",
-		"description" : "Modified existing web applications of College of Medicine to correct errors, upgrade interfaces and improve performance. Collaborated with other team members in plan, design and development of robust solutions using javaScript and jQuery. Managed the student database in Oracle and queried the database to generate periodic reports for course marketing analysis"
+		"description" : "Modified existing web applications of College of Medicine to correct errors, upgrade interfaces and improve performance. •	Collaborated with other team members in developing solutions using JavaScript, HTML5, CSS3, AngularJS, Bootstrap and jQuery. Managed the student database in Oracle and queried the database to generate periodic reports for course marketing analysis"
 
 
 	},
@@ -143,6 +143,13 @@ var project = {
     "description": "This is an iOS App developed using Swift, a GPS-based app to help you track your runs. This App takes running to the next level with badges based on planets and moons in the Solar System. This App uses the HealthKit API introduced with iOS 8. It uses Core Location to track route, shows a map during the run, continously reports average pace, use Core Data to store past runs and awards badges for running various distances(Raywenderlich Tutorials).",
     "image": "images/Runner1.png"
   },
+    {
+    "title": "Neighborhood Map",
+    "url": "http://shanmathi1.github.io/neighborhood_map/",
+    "dates": "2015",
+    "description": "This is a single-page, responsive application built with Knockout.js framework and hosted on GitHub Pages. Developed a full-page map that loads with popular places in every location. Users can view reviews for each location(retrieved by AJAX request to Fourquare API).",
+    "image": "images/map.png"
+  },
   {
     "title": "Gesture-Driven To-Do List iOS App",
     "url": "https://github.com/Shanmathi1?tab=repositories",
@@ -156,13 +163,6 @@ var project = {
     "dates": "2015",
     "description": "Stock Market Simulator is a Web Applications that allows the user experience all of the excitement of investing without the risk of losing their money! It was developed using Bootstrap framework, real time stock data was fetched from Yahoo! Finance APIs and user information was managed using MySQL. The users can learn the ins-and-outs of investing with Stock Market Trading Simulator and become the next mogul of Wall Street!",
     "image": "images/stock1.png"
-  },
-  {
-    "title": "Neighborhood Map",
-    "url": "http://shanmathi1.github.io/neighborhood_map/",
-    "dates": "2015",
-    "description": "This is a single-page, responsive application built with Knockout.js framework and hosted on GitHub Pages. Developed a full-page map that loads with popular places in every location. Users can view reviews for each location(retrieved by AJAX request to Fourquare API).",
-    "image": "images/map.png"
   },
   {
     "title": "Frogger Game",
