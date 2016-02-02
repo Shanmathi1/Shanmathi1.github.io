@@ -9,7 +9,7 @@ var bio = {
 		"location" : "Chicago"
 	},
 	"skills" : ["C", "C++", "Java", "HTML&CSS","JavaScript","Python","Mobile Development"],
-	"bioPic" : "images/pic.jpg",
+	"bioPic" : "images/pic1.jpg",
 	
 	display: function() {
 	
@@ -137,11 +137,11 @@ var work = {
 var project = {
   "projects": [ 
   {
-    "title": "MoonRunner iOS App",
+    "title": "Just2Do iOS App",
     "url": "https://github.com/Shanmathi1?tab=repositories",
-    "dates": "2015",
-    "description": "This is an iOS App developed using Swift, a GPS-based app to help you track your runs. This App takes running to the next level with badges based on planets and moons in the Solar System. This App uses the HealthKit API introduced with iOS 8. It uses Core Location to track route, shows a map during the run, continously reports average pace, use Core Data to store past runs and awards badges for running various distances(Raywenderlich Tutorials).",
-    "image": "images/Runner1.png"
+    "dates": "2016",
+    "description": "Just2Do is a simple to-do list app that helps you get stuff done. Just2Do helps you collect all your tasks in one place, organize them according to your priorities and then work on tasks that matter the most. Just2Do has a simple gesture-based design that allows you to focus on your to-dos.",
+    "image": "images/todo1.png"
   },
     {
     "title": "Neighborhood Map",
@@ -149,6 +149,13 @@ var project = {
     "dates": "2015",
     "description": "This is a single-page, responsive application built with Knockout.js framework and hosted on GitHub Pages. Developed a full-page map that loads with popular places in every location. Users can view reviews for each location(retrieved by AJAX request to Fourquare API).",
     "image": "images/map.png"
+  },
+    {
+    "title": "MoonRunner iOS App",
+    "url": "https://github.com/Shanmathi1?tab=repositories",
+    "dates": "2015",
+    "description": "This is an iOS App developed using Swift, a GPS-based app to help you track your runs. This App takes running to the next level with badges based on planets and moons in the Solar System. This App uses the HealthKit API introduced with iOS 8. It uses Core Location to track route, shows a map during the run, continously reports average pace, use Core Data to store past runs and awards badges for running various distances(Raywenderlich Tutorials).",
+    "image": "images/Runner1.png"
   },
   {
     "title": "Gesture-Driven To-Do List iOS App",
