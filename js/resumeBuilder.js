@@ -82,9 +82,9 @@ var work = {
 	"jobs" : [
 	{
 		"employer" : "W.W.Grainger Inc",
-		"title" : "Software Engineer Intern",
-		"location" : "LakeForest, IL",
-		"dates" : "June 2015 - August 2015",
+		"title" : "Software Engineer",
+		"location" : "Chicago, IL",
+		"dates" : "Feb 2016 - Present",
 		"description" : "Designed a working prototype for  G-Sales iOS Mobile App used by Territory Sales Representatives (TSR) for a one stop solution. Developed features using Swift to render front-end and javaScript to perform back-end logic with cloud functions on Parse. Performed regression testing for smooth data migration between SAP ECC and CRM systems and Hybris Commerce Suite"
 	},
 	{
