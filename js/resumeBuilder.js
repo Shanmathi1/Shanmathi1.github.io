@@ -148,7 +148,7 @@ var project = {
     "url": "https://itunes.apple.com/us/app/just2do/id1079950169",
     "dates": "2016",
     "description": "Just2Do is a simple to-do list app that helps you get stuff done. Just2Do helps you collect all your tasks in one place, organize them according to your priorities and then work on tasks that matter the most. Just2Do has a simple gesture-based design that allows you to focus on your to-dos.",
-    "image": "images/todo1.jpg"
+    "image": "images/todo1.jpeg"
   },
     {
     "title": "Neighborhood Map",
